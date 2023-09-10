@@ -9,4 +9,4 @@ Supplementary material and source data from the paper ["Process Quality Control 
 
 ## Usage
 
-This repository is meant to be an additional materials to help reviewers to evaluate our findings, and increase trust in our article.
+This repository is meant to be an additional material to help reviewers to evaluate our findings, and increase trust in our article.
