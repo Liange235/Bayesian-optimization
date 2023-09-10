@@ -1,4 +1,4 @@
-Code, models and data for 
+ Source data for 
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # TBOBO Algorithm
