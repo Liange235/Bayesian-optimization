@@ -1,5 +1,5 @@
  Source data for 
-**Status:** Archive (code is provided as-is, no updates expected)
+**Status:** Archive (data is provided as-is, no updates expected)
 
 # TBOBO Algorithm
 
