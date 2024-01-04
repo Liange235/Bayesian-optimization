@@ -6,6 +6,10 @@ Supplementary material and source data from the paper ["Process Quality Control 
 
 <sup>*</sup> *Note that for detailed explanation please read the corresponding section of I.Data Availability and Reproducibility Statement and V.Dynamic Plots Explanation in file Supplementary Material.docx.*
 
+## How to read
+
+We suggest downloading all the files together with 
+
 ## Usage
 
 This repository is meant to be an additional material to help reviewers to evaluate our findings, and increase trust in our article.
