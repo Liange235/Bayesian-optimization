@@ -8,7 +8,7 @@ Supplementary material and source data from the paper ["Process Quality Control 
 
 ## How to read
 
-We suggest downloading all the files together with 
+We suggest downloading all the files together with git and open the '.html' on your local web browser.
 
 ## Usage
 
